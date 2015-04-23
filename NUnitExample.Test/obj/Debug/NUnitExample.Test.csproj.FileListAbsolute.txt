@@ -1,0 +1,7 @@
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample.Test\bin\Debug\NUnitExample.Test.dll
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample.Test\bin\Debug\NUnitExample.Test.pdb
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample.Test\obj\Debug\NUnitExample.Test.csprojResolveAssemblyReference.cache
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample.Test\obj\Debug\NUnitExample.Test.dll
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample.Test\obj\Debug\NUnitExample.Test.pdb
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample.Test\bin\Debug\NUnitExample.exe
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample.Test\bin\Debug\NUnitExample.pdb

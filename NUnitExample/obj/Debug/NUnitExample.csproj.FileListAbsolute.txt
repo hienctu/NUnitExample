@@ -1,0 +1,6 @@
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample\bin\Debug\NUnitExample.exe.config
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample\bin\Debug\NUnitExample.exe
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample\bin\Debug\NUnitExample.pdb
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample\obj\Debug\NUnitExample.csprojResolveAssemblyReference.cache
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample\obj\Debug\NUnitExample.exe
+C:\Users\hiend\_Data\study\NUnitExample\NUnitExample\obj\Debug\NUnitExample.pdb
